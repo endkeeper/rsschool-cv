@@ -24,7 +24,7 @@ public class Multiply {
     }
 }
 ```
-## Projects
-[Текущий проект](https://github.com/endkeeper/rsschool-cv/)
+##  Projects
+[current project](https://github.com/endkeeper/rsschool-cv/)
 
 
